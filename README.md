@@ -7,7 +7,8 @@ The dashboard helps management make **data-driven HR decisions** effectively.
 
 ## 🖼️ Dashboard Preview
 
-![Employees Data Analysis Dashboard](assets/employee_dashboard.png)
+<img width="1987" height="1000" alt="image" src="https://github.com/user-attachments/assets/7a7da187-3112-454f-8328-134344afeacc" />
+
 
 ---
 
