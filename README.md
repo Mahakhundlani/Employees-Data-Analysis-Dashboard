@@ -95,7 +95,7 @@ The dashboard helps management make **data-driven HR decisions** effectively.
 
 1. Download the `.pbix` file from the repository  
 2. Open it using **Power BI Desktop**  
-3. Interact with filters and visuals to explore insights  
+3. Interact with filters and visuals to explore insight
 
 ---
 
